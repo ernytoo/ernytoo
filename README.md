@@ -1,12 +1,12 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Erny</h1>
+<h1 align="center"><a href="https://media1.tenor.com/m/YlBfgZ3_INcAAAAd/cat-kitty.gif">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Erny</a></h1>
 <h4 align="center">making mods, also a student at mogwarts (cant talk much im mewing)</h4>
 </div>
 
 <div align="center">
-  <div class="tenor-gif-embed" data-postid="26085286" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-kitty-kitten-money-rich-gif-26085286">Cat Kitty GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <a href="https://media1.tenor.com/m/YlBfgZ3_INcAAAAd/cat-kitty.gif">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" />
+       alt="snake" /></a>
 </div>
 
 -----
