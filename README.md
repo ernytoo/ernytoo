@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://media1.tenor.com/m/YlBfgZ3_INcAAAAd/cat-kitty.gif"><h1 align="center">Hi, I'm Erny</h1></a>
-<h4 align="center">making mods, also a student at mogwarts (cant talk much im mewing)</h4>
+<h4 align="center">just making stuff!</h4>
 </div>
 
 
