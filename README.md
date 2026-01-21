@@ -3,12 +3,6 @@
 <h4 align="center">making mods, also a student at mogwarts (cant talk much im mewing)</h4>
 </div>
 
-<div align="center">
-  <a href="https://media1.tenor.com/m/YlBfgZ3_INcAAAAd/cat-kitty.gif">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 
 <!--
 **ernytoo/ernytoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
