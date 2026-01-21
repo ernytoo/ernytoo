@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://media1.tenor.com/m/YlBfgZ3_INcAAAAd/cat-kitty.gif"><h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Erny</h1></a>
+<a href="https://media1.tenor.com/m/YlBfgZ3_INcAAAAd/cat-kitty.gif"><h1 align="center">Hi, I'm Erny</h1></a>
 <h4 align="center">making mods, also a student at mogwarts (cant talk much im mewing)</h4>
 </div>
 
