@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://media1.tenor.com/m/YlBfgZ3_INcAAAAd/cat-kitty.gif"><h1 align="center">Hi, I'm Erny</h1></a>
-<h4 align="center">just making stuff!</h4>
+<h4 align="center">imagine if my name was pr pringlew i would poop on shamas</h4>
 </div>
 
 
